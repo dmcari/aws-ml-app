@@ -1,4 +1,4 @@
-![header image](https://github.com/dm-cm/aws-ml-app/blob/master/mlflask.png)
+![Alt text](/mlflask.png?raw=true "Optional Title")
 
 # Machine Learning App
 
