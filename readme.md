@@ -1,4 +1,4 @@
-![Alt text](mlflask.png?raw=true "Optional Title")
+![Alt text](images/mlflask2.png?raw=true "Optional Title")
 
 # Machine Learning App
 
